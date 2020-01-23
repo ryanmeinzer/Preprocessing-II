@@ -252,3 +252,14 @@ header {
   width: 30%;
   margin-bottom: 30px;
 }
+.home .content-pick .destination .btn {
+  display: flex;
+  background-color: #17A2B8;
+  width: 100%;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  font-size: 2rem;
+  border-radius: 10px;
+}
